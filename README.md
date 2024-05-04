@@ -7,7 +7,7 @@ This Python project implements a solver for a maze-like puzzle using a search al
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/crossword-puzzle-solver.git](https://github.com/AKKI0511/Crossword-Puzzle-Solver.git)
+   git clone https://github.com/AKKI0511/Crossword-Puzzle-Solver.git
    cd crossword-puzzle-solver
    ```
 
@@ -83,3 +83,6 @@ After running the solver, it will print:
 
 It will also save an image (`maze.png`) of the maze with the explored cells highlighted if you pass `show_explored=True` to the `output_image()` method.
 
+`maze.png`:
+
+![image](https://github.com/AKKI0511/Crossword-Puzzle-Solver/assets/120317569/0fd7e193-d098-4226-ba7b-685c41e336d6)
